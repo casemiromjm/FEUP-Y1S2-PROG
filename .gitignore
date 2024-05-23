@@ -18,5 +18,10 @@
 # Build directories
 build/
 bin/
+
+# Ignore compiled C++ files without extension
+*.$SELECTION_PLACEHOLDER$
+
+# Ignore specific files that wasn't done
 Codes/Class 04 - Arrays/rle-encoding.cpp
 Codes/Class 04 - Arrays/trim.cpp
